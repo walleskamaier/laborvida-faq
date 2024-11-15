@@ -17,3 +17,4 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   // testando um texto aleatório
+  // testando de novo um texto aleatório pra ver se tem alguma mudança
