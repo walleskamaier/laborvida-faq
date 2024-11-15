@@ -15,5 +15,3 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
   });
-
-  // testando um texto aleatório
